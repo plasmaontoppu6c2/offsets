@@ -39,7 +39,7 @@
     "bUseAthenaRecoil": "0x1dec",
     "HabaneroComponent": "0xa48",
     "UsernameComponent": "0xb08",
-    "UserPlatform": "0x430"
+    "UserPlatform": "0x430",
     "CameraLoc": "0x148",
     "CameraRot": "0x158",
     "Seconds": "0x168",
