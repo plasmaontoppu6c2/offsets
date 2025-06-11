@@ -1,5 +1,5 @@
 {
-    "UWorld": "0x181A4638",
+    "UWorld": "0x181A0438",
     "AcknowledgedPawn": "0x350",
     "PlayerController": "0x30",
     "LocalPlayers": "0x38",
@@ -42,6 +42,6 @@
     "UserPlatform": "0x430",
     "CameraLoc": "0x148",
     "CameraRot": "0x158",
-    "Seconds": "0x1A0",
+    "Seconds": "0x198",
     "LastRenderMain": "0x32C"
 }
