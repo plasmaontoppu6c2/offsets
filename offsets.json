@@ -42,6 +42,6 @@
     "UserPlatform": "0x430",
     "CameraLoc": "0x178",
     "CameraRot": "0x188",
-    "Seconds": "0x190",
+    "Seconds": "0x198",
     "LastRenderMain": "0x32C"
 }
