@@ -1,5 +1,5 @@
 {
-    "UWorld": "0x186C09C8",
+    "UWorld": "0x1488D840",
     "AcknowledgedPawn": "0x350",
     "PlayerController": "0x30",
     "LocalPlayers": "0x38",
@@ -40,8 +40,8 @@
     "HabaneroComponent": "0xA80",
     "UsernameComponent": "0xB40",
     "UserPlatform": "0x430",
-    "CameraLoc": "0x178",
-    "CameraRot": "0x188",
-    "Seconds": "0x198",
+    "CameraLoc": "0x160",
+    "CameraRot": "0x170",
+    "Seconds": "0x180",
     "LastRenderMain": "0x32C"
 }
