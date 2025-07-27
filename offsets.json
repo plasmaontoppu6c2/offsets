@@ -1,5 +1,5 @@
 {
-    "UWorld": "0x1488D840",
+    "UWorld": "0x14942840",
     "AcknowledgedPawn": "0x350",
     "PlayerController": "0x30",
     "LocalPlayers": "0x38",
@@ -31,8 +31,8 @@
     "OwningWorld": "0xf0",
     "Velocity": "0x180",
     "CurrentWeapon": "0xAF0",
-    "WeaponData": "0x6E8",
-    "AmmoCount": "0x127C",
+    "WeaponData": "0x548",
+    "AmmoCount": "0x10ec",
     "ItemName": "0x40",
     "Tier": "0xa2",
     "Color": "0xa2",
