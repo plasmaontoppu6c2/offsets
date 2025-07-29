@@ -1,5 +1,5 @@
 {
-    "UWorld": "0x14357A00",
+    "UWorld": "0x173AF320",
     "AcknowledgedPawn": "0x350",
     "PlayerController": "0x30",
     "LocalPlayers": "0x38",
@@ -15,7 +15,7 @@
     "TeamIndex": "0x1291",
     "b_is_dying": "0x728",
     "BoneArray": "0x5E8",
-    "BoneCache": "0x5F8",
+    "BoneCache": "0x5D8",
     "ComponentToWorld": "0x1e0",
     "LastSubmitTimeOnScreen": "0x2F0",
     "b_has_thanked_bus_driver": "0x13DD",
