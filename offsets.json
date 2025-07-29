@@ -26,7 +26,7 @@
     "MaxHealth": "0xe60",
     "bIsJumping": "0xa78",
     "fLastSubmitTime": "0x148",
-    "fLastRenderTimeOnScreen": "0x328",
+    "fLastRenderTimeOnScreen": "0x30C",
     "PersistentLevel": "0x38",
     "OwningWorld": "0xf0",
     "Velocity": "0x180",
