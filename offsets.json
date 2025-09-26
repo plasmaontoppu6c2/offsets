@@ -1,5 +1,5 @@
 {
-    "UWorld": "0x17ADA908",
+    "UWorld": "0x17e5c9c8",
     "AcknowledgedPawn": "0x350",
     "PlayerController": "0x30",
     "LocalPlayers": "0x38",
@@ -31,7 +31,7 @@
     "OwningWorld": "0xf0",
     "Velocity": "0x180",
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x598",
+    "WeaponData": "0x578",
     "AmmoCount": "0x1124",
     "ItemName": "0x40",
     "Tier": "0xa2",
@@ -40,8 +40,8 @@
     "HabaneroComponent": "0x968",
     "UsernameComponent": "0xA28",
     "UserPlatform": "0x430",
-    "CameraLoc": "0X180",
-    "CameraRot": "0X190",
+    "CameraLoc": "0X178",
+    "CameraRot": "0X188",
     "Seconds": "0x198",
     "LastRenderMain": "0x32C"
 }
