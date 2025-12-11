@@ -27,7 +27,7 @@
     "bIsJumping": "0xa78",
     "fLastSubmitTime": "0x330",
     "fLastRenderTimeOnScreen": "0x2f0",
-    "PersistentLevel": "0x38",
+    "PersistentLevel": "0x40",
     "OwningWorld": "0xf0",
     "Velocity": "0x188",
     "CurrentWeapon": "0x3DE",
