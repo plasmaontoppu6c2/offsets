@@ -22,7 +22,7 @@
     "kill_score": "0x11C0",
     "season_level_ui_display": "0x11c4",
     "SpectatorCount": "0x1278",
-    "Health": "0x1830",
+    "Health": "0x1840",
     "MaxHealth": "0xe60",
     "bIsJumping": "0xa78",
     "fLastSubmitTime": "0x330",
