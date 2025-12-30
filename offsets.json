@@ -31,8 +31,8 @@
     "OwningWorld": "0xf0",
     "Velocity": "0x188",
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x5C0",
-    "AmmoCount": "0x144C",
+    "WeaponData": "0x698",
+    "AmmoCount": "0x150c",
     "ItemName": "0x40",
     "Tier": "0xAA",
     "Color": "0xAA",
@@ -42,6 +42,6 @@
     "UserPlatform": "0x440",
     "CameraLoc": "0x178",
     "CameraRot": "0X188",
-    "Seconds": "0x1a0",
+    "Seconds": "0x198",
     "LastRenderMain": "0x324"
 }
