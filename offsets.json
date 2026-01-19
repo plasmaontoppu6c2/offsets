@@ -38,10 +38,10 @@
     "Color": "0xAA",
     "bUseAthenaRecoil": "0x1dec",
     "HabaneroComponent": "0x948",
-    "UsernameComponent": "0xA00",
+    "UsernameComponent": "0xA08",
     "UserPlatform": "0x440",
     "CameraLoc": "0x178",
     "CameraRot": "0X188",
     "Seconds": "0x1a0",
-    "LastRenderMain": "0x32C"
+    "LastRenderMain": "0x328"
 }
