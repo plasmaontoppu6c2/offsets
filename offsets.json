@@ -40,8 +40,8 @@
     "HabaneroComponent": "0x948",
     "UsernameComponent": "0xA08",
     "UserPlatform": "0x440",
-    "CameraLoc": "0x178",
-    "CameraRot": "0X188",
+    "CameraLoc": "0x180",
+    "CameraRot": "0X190",
     "Seconds": "0x1a0",
     "LastRenderMain": "0x328"
 }
