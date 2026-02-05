@@ -18,7 +18,7 @@
     "BoneCache": "0x600",
     "ComponentToWorld": "0x1E0",
     "LastSubmitTimeOnScreen": "0x2F0",
-    "b_has_thanked_bus_driver": "0x13DD",
+    "b_has_thanked_bus_driver": "0xFFFFFFFF3CE5AF17uLL",
     "kill_score": "0x11C8",
     "season_level_ui_display": "0x11c4",
     "SpectatorCount": "0x1278",
