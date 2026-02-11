@@ -31,7 +31,7 @@
     "OwningWorld": "0xf0",
     "Velocity": "0x188",
     "CurrentWeapon": "0x990",
-    "WeaponData": "0x600",
+    "WeaponData": "0x5C0",
     "AmmoCount": "0x147C",
     "ItemName": "0x40",
     "Tier": "0xAA",
