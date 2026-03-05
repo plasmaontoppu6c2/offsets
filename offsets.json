@@ -1,11 +1,11 @@
 {
-    "UWorld": "0x178D5418",
+    "UWorld": "0x17842098",
     "AcknowledgedPawn": "0x358",
     "PlayerController": "0x30",
     "LocalPlayers": "0x38",
     "PlayerState": "0x2d0",
-    "OwningGameInstance": "0x250",
-    "GameState": "0x1D8",
+    "OwningGameInstance": "0x238",
+    "GameState": "0x1c0",
     "PlayerArray": "0x2C8",
     "RootComponent": "0x1B0",
     "current_vehicle": "0x2b40",
@@ -42,8 +42,8 @@
     "HabaneroComponent": "0x948",
     "UsernameComponent": "0xA08",
     "UserPlatform": "0x440",
-    "CameraLoc": "0x180",
-    "CameraRot": "0X190",
+    "CameraLoc": "0x170",
+    "CameraRot": "0X180",
     "Seconds": "0x190",
     "LastRenderMain": "0x328"
 }
