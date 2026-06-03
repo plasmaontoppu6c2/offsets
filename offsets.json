@@ -18,7 +18,7 @@
     "BoneCache": "0x600",
     "ComponentToWorld": "0x1E0",
     "LastSubmitTimeOnScreen": "0x2F0",
-    "b_has_thanked_bus_driver": "0x913F0DAFLL",
+    "b_has_thanked_bus_driver": "0x913F0DAF",
     "kill_score": "0x1228",
     "season_level_ui_display": "0x11cc",
     "SpectatorCount": "0x1278",
@@ -43,7 +43,14 @@
     "UsernameComponent": "0xA08",
     "UserPlatform": "0x440",
     "CameraLoc": "0x178",
-    "CameraRot": "0X188",
+    "CameraRot": "0x188",
     "Seconds": "0x190",
-    "LastRenderMain": "0x328"
+    "LastRenderMain": "0x328",
+
+    "GWorldDecrypt": [
+        { "op": "xor",  "value": "0xC774FE" },
+        { "op": "rotl", "value": "56" },
+        { "op": "xor",  "value": "0xF81BA2C7" },
+        { "op": "mul",  "value": "0x80CD98FC8EC532E9" }
+    ]
 }
