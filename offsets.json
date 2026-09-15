@@ -16,6 +16,8 @@
     "b_is_dying": "0x728",
     "BoneArray": "0x660",
     "BoneCache": "0x670",
+    "Levels": "0x1E0",
+    "Actors": "0x218",
     "ComponentToWorld": "0x1E0",
     "LastSubmitTimeOnScreen": "0x2F0",
     "b_has_thanked_bus_driver": "0x913F0DAF",
