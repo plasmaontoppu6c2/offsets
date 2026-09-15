@@ -45,12 +45,5 @@
     "CameraLoc": "0x168",
     "CameraRot": "0x178",
     "Seconds": "0x188",
-    "LastRenderMain": "0x328",
-
-    "GWorldDecrypt": [
-        { "op": "xor",  "value": "0xC774FE" },
-        { "op": "rotl", "value": "56" },
-        { "op": "xor",  "value": "0xF81BA2C7" },
-        { "op": "mul",  "value": "0x80CD98FC8EC532E9" }
-    ]
+    "LastRenderMain": "0x328"
 }
